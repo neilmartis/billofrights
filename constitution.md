@@ -17,7 +17,7 @@ Whereas Canada is founded upon principles that recognize the supremacy of God an
 
 4. (1) No House of Commons and no legislative assembly shall continue for longer than five years from the date fixed for the return of the writs at a general election of its members.
 
-(2) In time of real or apprehended war, invasion or insurrection, a House of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be.
+  (2) In time of real or apprehended war, invasion or insurrection, a House of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be.
 
 5. There shall be a sitting of Parliament and of each legislature at least once every twelve months.
 
@@ -133,30 +133,30 @@ Whereas Canada is founded upon principles that recognize the supremacy of God an
 
 35. (1) The existing aboriginal and treaty rights of the aboriginal peoples of Canada are hereby recognized and affirmed.
 
-   (2) In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
+    (2) In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
       Part III, Equalization and Regional Disparities
 
 36. (1) Without altering the legislative authority of Parliament or of the provincial legislatures, or the rights of any of them with respect to the exercise of their legislative authority, Parliament and the legislatures, together with the government of Canada and the provincial governments, are committed to (a) promoting equal opportunities for the well-being of Canadians; (b) furthering economic development to reduce disparity in opportunities; and (c) providing essential public services of reasonable quality to all Canadians.
 
-(2) Parliament and the government of Canada are committed to the principle of making equalization payments to ensure that provincial governments have sufficient revenues to provide reasonably comparable levels of public services at reasonably comparable levels of taxation.
+   (2) Parliament and the government of Canada are committed to the principle of making equalization payments to ensure that provincial governments have sufficient revenues to provide reasonably comparable levels of public services at reasonably comparable levels of taxation.
 
 ##Part IV, Constitutional Conference
 
 37. (1) A constitutional conference composed of the Prime Minister of Canada and the 1st ministers of the provinces shall be convened by the Prime Minister of Canada within one year after this Part comes into force.
 
-(2) The conference convened under subsection (1) shall have included in its agenda an item respecting constitutional matters that directly affect the aboriginal peoples of Canada, including the identification and definition of the rights of those peoples to be included in the Constitution of Canada, and the Prime Minister of Canada shall invite representatives of those peoples to participate in the discussions on that item.
+   (2) The conference convened under subsection (1) shall have included in its agenda an item respecting constitutional matters that directly affect the aboriginal peoples of Canada, including the identification and definition of the rights of those peoples to be included in the Constitution of Canada, and the Prime Minister of Canada shall invite representatives of those peoples to participate in the discussions on that item.
 
-(3) The Prime Minister of Canada shall invite elected representatives of the governments of the Yukon Territory and the Northwest Territories to participate in the discussions on any item on the agenda of the conference convened under subsection (1) that, in the opinion of the Prime Minister, directly affects the Yukon Territory and the Northwest Territories.
+   (3) The Prime Minister of Canada shall invite elected representatives of the governments of the Yukon Territory and the Northwest Territories to participate in the discussions on any item on the agenda of the conference convened under subsection (1) that, in the opinion of the Prime Minister, directly affects the Yukon Territory and the Northwest Territories.
 
 ##Part V, Procedure for Amending Constitution of Canada
 
 38. (1) An amendment to the Constitution of Canada may be made by proclamation issued by the Governor General under the Great Seal of Canada where so authorized by (a) resolutions of the Senate and House of Commons; and (b) resolutions of the legislative assemblies of at least two-thirds of the provinces that have, in the aggregate, according to the then latest general census, at least fifty per cent of the population of all the provinces.
 
-(2) An amendment made under subsection (1) that derogates from the legislative powers, the proprietary rights or any other rights or privileges of the legislature or government of a province shall require a resolution supported by a majority of the members of each of the Senate, the House of Commons and the legislative assemblies required under subsection (1).
+   (2) An amendment made under subsection (1) that derogates from the legislative powers, the proprietary rights or any other rights or privileges of the legislature or government of a province shall require a resolution supported by a majority of the members of each of the Senate, the House of Commons and the legislative assemblies required under subsection (1).
 
-(3) An amendment referred to in subsection (2) shall not have effect in a province the legislative assembly of which has expressed its dissent thereto by resolution supported by a majority of its members prior to the issue of the proclamation to which the amendment relates unless that legislative assembly, subsequently, by resolution supported by a majority of its members, revokes its dissent and authorizes the amendment.
+   (3) An amendment referred to in subsection (2) shall not have effect in a province the legislative assembly of which has expressed its dissent thereto by resolution supported by a majority of its members prior to the issue of the proclamation to which the amendment relates unless that legislative assembly, subsequently, by resolution supported by a majority of its members, revokes its dissent and authorizes the amendment.
 
-(4) A resolution of dissent made for the purposes of subsection (3) may be revoked at any time before or after the issue of the proclamation to which it relates.
+   (4) A resolution of dissent made for the purposes of subsection (3) may be revoked at any time before or after the issue of the proclamation to which it relates.
 
 39. (1) A proclamation shall not be issued under subsection 38 (1) before the expiration of one year from the adoption of the resolution initiating the amendment procedure thereunder, unless the legislative assembly of each province has previously adopted a resolution of assent or dissent. (2) A proclamation shall not be issued under subsection 38 (1) after the expiration of three years from the adoption of the resolution initiating the amendment procedure thereunder.
 
