@@ -25,11 +25,11 @@ Whereas Canada is founded upon principles that recognize the supremacy of God an
 
 6. (1) Every citizen of Canada has the right to enter, remain in and leave Canada.
 
-(2) Every citizen of Canada and every person who has the status of a permanent resident of Canada has the right (a) to move to and take up residence in any province; and (b) to pursue the gaining of a livelihood in any province.
+   (2) Every citizen of Canada and every person who has the status of a permanent resident of Canada has the right (a) to move to and take up residence in any province; and (b) to pursue the gaining of a livelihood in any province.
 
-(3) The rights specified in subsection (2) are subject to (a) any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and (b) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.
+   (3) The rights specified in subsection (2) are subject to (a) any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and (b) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.
 
-(4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.
+   (4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.
 
 ##Legal Rights
 
@@ -53,47 +53,51 @@ Whereas Canada is founded upon principles that recognize the supremacy of God an
 
 15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
 
-(2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
-Official Languages of Canada
+  (2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+
+##Official Languages of Canada
 
 16. (1) English and French are the official languages of Canada and have equality of status and equal rights and privileges as to their use in all institutions of the Parliament and government of Canada.
 
-(2) English and French are the official languages of New Brunswick and have equality of status and equal rights and privileges as to their use in all institutions of the legislature and government of New Brunswick.
+   (2) English and French are the official languages of New Brunswick and have equality of status and equal rights and privileges as to their use in all institutions of the legislature and government of New Brunswick.
 
-(3) Nothing in this Charter limits the authority of Parliament or a legislature to advance the equality of status or use of English and French.
+   (3) Nothing in this Charter limits the authority of Parliament or a legislature to advance the equality of status or use of English and French.
 
 17. (1) Everyone has the right to use English or French in any debates and other proceedings of Parliament.
 
-(2) Everyone has the right to use English or French in any debates and other proceedings of the legislature of New Brunswick.
+    (2) Everyone has the right to use English or French in any debates and other proceedings of the legislature of New Brunswick.
 
 18. (1) The statutes, records and journals of Parliament shall be printed and published in English and French and both language versions are equally authoritative.
 
-(2) The statutes, records and journals of the legislature of New Brunswick shall be printed and published in English and French and both language versions are equally authoritative.
+   (2) The statutes, records and journals of the legislature of New Brunswick shall be printed and published in English and French and both language versions are equally authoritative.
 
-19. (1) Either English or French may be used by any person in, or in any pleading in or process issuing from, any court established by Parliament.
+19. (1) Either English or French may be used by any person in, or in any pleading in or process issuing from, any court   established by Parliament.
 
-(2) Either English or French may be used by any person in, or in any pleading in or process issuing from, any court of New Brunswick.
+    (2) Either English or French may be used by any person in, or in any pleading in or process issuing from, any court of New Brunswick.
 
 20. (1) Any member of the public in Canada has the right to communicate with, and to receive available services from, any head or central office of an institution of the Parliament or government of Canada in English or French, and has the same right with respect to any other office of any such institution where (a) there is a significant demand for communications with and services from that office in such language; or (b) due to the nature of the office, it is reasonable that communications with and services from that office be available in both English and French.
 
-(2) Any member of the public in New Brunswick has the right to communicate with, and to receive available services from, any office of an institution of the legislature or government of New Brunswick in English or French.
+   (2) Any member of the public in New Brunswick has the right to communicate with, and to receive available services from, any office of an institution of the legislature or government of New Brunswick in English or French.
 
 21. Nothing in sections 16 to 20 abrogates or derogates from any right, privilege or obligation with respect to the English and French languages, or either of them, that exists or is continued by virtue of any other provision of the Constitution of Canada.
 
 22. Nothing in sections 16 to 20 abrogates or derogates from any legal or customary right or privilege acquired or enjoyed either before or after the coming into force of this Charter with respect to any language that is not English or French.
-Minority Language Educational Rights
+
+##Minority Language Educational Rights
 
 23. (1) Citizens of Canada (a) whose 1st language learned and still understood is that of the English or French linguistic minority population of the province in which they reside, or (b) who have received their primary school instruction in Canada in English or French and reside in a province where the language in which they received that instruction is the language of the English or French linguistic minority population of the province, have the right to have their children receive primary and secondary school instruction in that language in that province.
 
 (2) Citizens of Canada of whom any child has received or is receiving primary or secondary school instruction in English or French in Canada, have the right to have all their children receive primary and secondary school instruction in the same language.
 
 (3) The right of citizens of Canada under subsections (1) and (2) to have their children receive primary and secondary school instruction in the language of the English or French linguistic minority population of a province (a) applies wherever in the province the number of children of citizens who have such a right is sufficient to warrant the provision to them out of public funds of minority language instruction; and (b) includes, where the number of those children so warrants, the right to have them receive that instruction in minority language educational facilities provided out of public funds.
-Enforcement
+
+##Enforcement
 
 24. (1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
 
-(2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
-General
+  (2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+
+##General
 
 25. The guarantee in this Charter of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada including (a) any rights or freedoms that have been recognized by the Royal Proclamation of October 7, 1763; and (b) any rights or freedoms that may be acquired by the aboriginal peoples of Canada by way of land claims settlement.
 
@@ -108,7 +112,8 @@ General
 30. A reference in this Charter to a province or to the legislative assembly or legislature of a province shall be deemed to include a reference to the Yukon Territory and the Northwest Territories, or to the appropriate legislative authority thereof, as the case may be.
 
 31. Nothing in this Charter extends the legislative powers of any body or authority.
-Application of Charter
+
+##Application of Charter
 
 32. (1) This Charter applies (a) to the Parliament and government of Canada in respect of all matters within the authority of Parliament including all matters relating to the Yukon Territory and Northwest Territories; and (b) to the legislature and government of each province in respect of all matters within the authority of the legislature of each province.
 
@@ -123,24 +128,27 @@ Application of Charter
 (4) Parliament or the legislature of a province may re-enact a declaration made under subsection (1).
 
 (5) Subsection (3) applies in respect of a re-enactment made under subsection (4). 34. This Part may be cited as the Canadian Charter of Rights and Freedoms.
-Part II, Rights of the Aboriginal Peoples of Canada
+
+##Part II, Rights of the Aboriginal Peoples of Canada
 
 35. (1) The existing aboriginal and treaty rights of the aboriginal peoples of Canada are hereby recognized and affirmed.
 
-(2) In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
-Part III, Equalization and Regional Disparities
+   (2) In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
+      Part III, Equalization and Regional Disparities
 
 36. (1) Without altering the legislative authority of Parliament or of the provincial legislatures, or the rights of any of them with respect to the exercise of their legislative authority, Parliament and the legislatures, together with the government of Canada and the provincial governments, are committed to (a) promoting equal opportunities for the well-being of Canadians; (b) furthering economic development to reduce disparity in opportunities; and (c) providing essential public services of reasonable quality to all Canadians.
 
 (2) Parliament and the government of Canada are committed to the principle of making equalization payments to ensure that provincial governments have sufficient revenues to provide reasonably comparable levels of public services at reasonably comparable levels of taxation.
-Part IV, Constitutional Conference
+
+##Part IV, Constitutional Conference
 
 37. (1) A constitutional conference composed of the Prime Minister of Canada and the 1st ministers of the provinces shall be convened by the Prime Minister of Canada within one year after this Part comes into force.
 
 (2) The conference convened under subsection (1) shall have included in its agenda an item respecting constitutional matters that directly affect the aboriginal peoples of Canada, including the identification and definition of the rights of those peoples to be included in the Constitution of Canada, and the Prime Minister of Canada shall invite representatives of those peoples to participate in the discussions on that item.
 
 (3) The Prime Minister of Canada shall invite elected representatives of the governments of the Yukon Territory and the Northwest Territories to participate in the discussions on any item on the agenda of the conference convened under subsection (1) that, in the opinion of the Prime Minister, directly affects the Yukon Territory and the Northwest Territories.
-Part V, Procedure for Amending Constitution of Canada
+
+##Part V, Procedure for Amending Constitution of Canada
 
 38. (1) An amendment to the Constitution of Canada may be made by proclamation issued by the Governor General under the Great Seal of Canada where so authorized by (a) resolutions of the Senate and House of Commons; and (b) resolutions of the legislative assemblies of at least two-thirds of the provinces that have, in the aggregate, according to the then latest general census, at least fifty per cent of the population of all the provinces.
 
@@ -173,10 +181,12 @@ Part V, Procedure for Amending Constitution of Canada
 48. The Queen's Privy Council for Canada shall advise the Governor General to issue a proclamation under this Part forthwith on the adoption of the resolutions required for an amendment made by proclamation under this Part.
 
 49. A constitutional conference composed of the Prime Minister of Canada and the 1st ministers of the provinces shall be convened by the Prime Minister of Canada within fifteen years after this Part comes into force to review the provisions of this Part.
-Part VI, Amendment to the Constitution Act, 1867
+
+##Part VI, Amendment to the Constitution Act, 1867
 
 50. The Constitution Act, 1867 (formerly named the British North America Act, 1867) is amended by adding thereto, immediately after section 92 thereof, the following heading and section:
-Part VII, General
+
+##Part VII, General
 
 52. (1) The Constitution of Canada is the supreme law of Canada, and any law that is inconsistent with the provisions of the Constitution is, to the extent of the inconsistency, of no force or effect.
 
@@ -220,6 +230,7 @@ Part VII, General
 (6) Nothing in subsections (1) to (5) derogates from any powers or rights that a legislature or government of a province had immediately before the coming into force of this section.
 
 51. The said Act is further amended by adding thereto the following Schedule:
-The Sixth Schedule-Primary Production from Non-Renewable Natural Resources and Forestry Resources
+
+##The Sixth Schedule-Primary Production from Non-Renewable Natural Resources and Forestry Resources
 
 1. For the purposes of section 92A of this Act, (a) production from a non-renewable natural resource is primary production therefrom if (i) it is in the form in which it exists upon its recovery or severance from its natural state, or (ii) it is a product resulting from processing or refining the resource, and is not a manufactured product or a product resulting from refining crude oil, refining upgraded heavy crude oil, refining gases or liquids derived from coal or refining a synthetic equivalent of crude oil; and (b) production from a forestry resource is primary production therefrom if it consists of sawlogs, poles, lumber, wood chips, sawdust or any other primary wood product, or wood pulp, and is not a product manufactured from wood.
