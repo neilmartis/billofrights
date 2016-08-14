@@ -5,11 +5,13 @@
 Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law:
 
 ##Guarantee of Rights and Freedoms
-#1. The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
-Fundamental Freedoms
+1. The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
 
-#2. Everyone has the following fundamental freedoms: (a) freedom of conscience and religion; (b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication; (c) freedom of peaceful assembly; and (d) freedom of association.
-Democratic Rights
+##Fundamental Freedoms
+
+2. Everyone has the following fundamental freedoms: (a) freedom of conscience and religion; (b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication; (c) freedom of peaceful assembly; and (d) freedom of association.
+
+##Democratic Rights
 
 3. Every citizen of Canada has the right to vote in an election of members of the House of Commons or of a legislative assembly and to be qualified for membership therein.
 
@@ -18,7 +20,8 @@ Democratic Rights
 (2) In time of real or apprehended war, invasion or insurrection, a House of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be.
 
 5. There shall be a sitting of Parliament and of each legislature at least once every twelve months.
-Mobility Rights
+
+##Mobility Rights
 
 6. (1) Every citizen of Canada has the right to enter, remain in and leave Canada.
 
