@@ -30,7 +30,8 @@ Whereas Canada is founded upon principles that recognize the supremacy of God an
 (3) The rights specified in subsection (2) are subject to (a) any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and (b) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.
 
 (4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.
-Legal Rights
+
+##Legal Rights
 
 7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
 
@@ -47,7 +48,8 @@ Legal Rights
 13. A witness who testifies in any proceedings has the right not to have any incriminating evidence so given used to incriminate that witness in any other proceedings, except in a prosecution for perjury or for the giving of contradictory evidence.
 
 14. A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted or who is deaf has the right to the assistance of an interpreter.
-Equality Rights
+
+##Equality Rights
 
 15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
 
